@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.20)
 
-set(PROJECT_NAME "ReaperExampleExtension")
+set(PROJECT_NAME "reaper_reaimgui_template")
 
 project(${PROJECT_NAME}
   VERSION 0.0.1
